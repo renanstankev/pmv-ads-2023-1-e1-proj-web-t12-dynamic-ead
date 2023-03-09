@@ -31,6 +31,12 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
+Desenvolver uma aplicação que centralize ferramentas que promovam a estudantes de ensino superior uma maior facilidade em organizar e gerir suas ativadades e seus progressos acadêmicos através de:
+- Interface simples e acessível para pessoas com menor familiaridade com tecnologia.
+- Cronogramas simplificados.
+- Organizador de atividades pendentes e concluídas.
+- Crônometro de “Focus Time” para incentivar momentos específicos de maior concentração.
+
 ## Justificativa
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
